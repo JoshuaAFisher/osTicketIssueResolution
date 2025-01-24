@@ -53,7 +53,7 @@ This tutorial simulates the process for resolving a ticket in osTicket by determ
 <br />
   <h2>Change ticket status to resolved:</h2>  <br/>
   Once the ticket has been processed to completion, we can click the blue 'Open' link next to 'Status". 
-<img src="https://imgur.com/4Br20JL.png" height="80%" width="80%" alt="osTicket Resolution Steps"/>
+<img src="https://imgur.com/qLpAJD1.png" height="80%" width="80%" alt="osTicket Resolution Steps"/>
 <br />
 <br />
   A drop-down menu will appear allowing us to switch the status from 'Open' to 'Resolved'. We click 'Resolved' and another menu will appear.
