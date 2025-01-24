@@ -17,7 +17,7 @@ This tutorial simulates the process for resolving a ticket in osTicket by determ
 
 
 
-<h2>Program walk-through:</h2>
+<h2>Program walk-through</h2>
 
 <p align="center">
 <h2>Access incoming ticket:</h2> <br/>
